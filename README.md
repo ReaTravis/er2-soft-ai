@@ -1,4 +1,4 @@
-# Soft Brain AI (Mac)
+# Soft Brain AI (Mac) 
 
 Slightly less smooth-brain infantry for [Easy Red 2](https://store.steampowered.com/app/1229080/Easy_Red_2/) on Mac.
 
@@ -17,17 +17,17 @@ Mac only for now (Steam / Mono). I have a PC sitting here I should probably get 
 - [.NET 8 runtime](https://dotnet.microsoft.com/download/dotnet/8.0) once, just so the install script can patch the game. You don't need it to play.
 
 ## Tweaks and Changes
-• Base of fire + maneuver split (MG/supports plant and suppress)
-• Short bounds under covering fire
-• Squads on the same objective team up (sometimes base + flank)
-• Contact-first — less random flanking with no eyes-on
-• Assault endgame: close → grenades → CQB
-• Smoke when suppressed / no fire superiority
-• Frags near the objective
-• Melee/bayonet in knife range
-• Aim settle + suppression affecting accuracy
-• Better close-range awareness
-• Hot-reload knobs in uiandai.cfg (Soft on/off, aggression, etc.)
+- Base of fire + maneuver split (MG/supports plant and suppress)
+- Short bounds under covering fire
+- Squads on the same objective team up (sometimes base + flank)
+- Contact-first — less random flanking with no eyes-on
+- Assault endgame: close → grenades → CQB
+- Smoke when suppressed / no fire superiority
+- Frags near the objective
+- Melee/bayonet in knife range
+- Aim settle + suppression affecting accuracy
+- Better close-range awareness
+- Hot-reload knobs in `uiandai.cfg` (Soft on/off, aggression, etc.)
 
 ## Install
 
